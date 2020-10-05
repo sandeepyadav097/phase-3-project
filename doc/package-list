@@ -1,0 +1,8 @@
+com.api.shoes
+com.api.shoes.config
+com.api.shoes.controller
+com.api.shoes.exceptionHandler
+com.api.shoes.model
+com.api.shoes.repository
+com.api.shoes.service
+com.api.shoes.service.impl
